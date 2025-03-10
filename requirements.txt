@@ -20,7 +20,7 @@ jaraco.functools==4.0.1
 jaraco.text==3.12.1
 joblib==1.4.2
 kiwisolver==1.4.7
-matplotlib	==3.9.4
+matplotlib==3.9.4
 more-itertools==10.3.0
 mpmath==1.3.0
 networkx==3.2.1
@@ -32,7 +32,7 @@ nvidia-cuda-runtime-cu11==11.8.89
 nvidia-cudnn-cu11==9.1.0.70
 nvidia-cufft-cu11==10.9.0.58
 nvidia-curand-cu11==10.3.0.86	
-nvidia-cusolver-cu11	==11.4.1.48
+nvidia-cusolver-cu11==11.4.1.48
 nvidia-cusparse-cu11==11.7.5.86
 nvidia-nccl-cu11==2.21.5
 nvidia-nvtx-cu11==11.8.86
